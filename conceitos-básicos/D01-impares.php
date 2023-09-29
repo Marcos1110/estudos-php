@@ -1,4 +1,5 @@
 <?php
+
 //Desafio #01 - Números Ímpares
 
 echo "<< Todos os Números Ímpares de 0 a 100 >>" . PHP_EOL;
