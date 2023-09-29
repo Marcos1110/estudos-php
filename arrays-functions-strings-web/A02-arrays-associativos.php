@@ -1,4 +1,5 @@
 <?php
+
 //Aula 02 - Arrays Associativos
 
 $acervo =[
