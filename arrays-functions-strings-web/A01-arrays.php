@@ -1,4 +1,5 @@
 <?php
+
 //Aula 01 - Arrays
 
 $listaAlunos =  ["Marcos Vinícius", "Guilherme Santos", "Hiago Henrique", 
